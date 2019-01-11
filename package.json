@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A simple typescript starter for quick development with node and express",
   "repository": "",
-  "main": "index.js",
   "scripts": {
     "build": "tsc -p tscnfig.json",
     "start": "nodemon",
