@@ -5,6 +5,7 @@
   "repository": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc -p tscnfig.json",
     "start": "nodemon",
     "format": "prettier --write \"src/**/*.ts\""
   },
