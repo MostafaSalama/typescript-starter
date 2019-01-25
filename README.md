@@ -1,7 +1,7 @@
 # typescript-starter
 A simple typescript starter with node.js and express for quick development .
 
-##Getting started 
+## Getting started 
 ```$xslt
 git clone https://github.com/MostafaSalama/typescript-starter project-name
 cd project-name
